@@ -1,0 +1,26 @@
+{
+  "src": [
+    "main/view/pages/EntryIndex",
+    "main/view/pages/Index",
+    "diary/view/pages/HomePage",
+    "diary/view/pages/DetailPage",
+    "diary/view/pages/CategoryNotesPage",
+    "diary/view/pages/DeletedNotesPage",
+    "diary/view/pages/ProfilePage",
+    "diary/view/pages/DiaryListPage",
+    "diary/view/pages/LockedNotesPage",
+    "goal/view/pages/GoalManagement",
+    "calculator/view/pages/Calculator",
+    "pomodoro/view/pages/Pomodoro",
+    "main/view/pages/MainPage",
+    "auth/view/pages/LoginPage",
+    "auth/view/pages/RegisterPage",
+    "auth/view/pages/ForgotPasswordPage",
+    "tools/view/pages/DashboardPage",
+    "tools/view/pages/StarMapPage",
+    "profile/view/pages/SettingsPage",
+    "calculator/view/float/FloatCalculator",
+    "calculator/view/float/FloatPomodoro",
+    "main/view/pages/NewsWebViewPage"
+  ]
+}
